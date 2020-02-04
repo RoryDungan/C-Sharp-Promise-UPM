@@ -1,0 +1,12 @@
+{
+  "name": "com.rsg.promise",
+  "version": "3.0.1",
+  "displayName": "C# Promise",
+  "description": "Promises library for C# for management of asynchronous operations.",
+  "unity": "2019.3",
+  "author": {
+    "name": "Real Serious Games",
+    "email": "info@realseriousgames.com",
+    "url": "https://github.com/Real-Serious-Games/C-Sharp-Promise"
+  }
+}
